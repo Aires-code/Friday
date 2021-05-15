@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Friday.AI
 ### A new AI assistant ready to assist!
 1. Ready at all times
